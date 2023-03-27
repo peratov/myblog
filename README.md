@@ -1,0 +1,2 @@
+# myblog
+Foundations learning process
